@@ -1,12 +1,12 @@
 # BuzzMap
 
-BuzzMap is a mobile application that displays news or events on a map as pins. The events can be current (occurring within the last 24 hours) or scheduled for the future. Users can also create side quests, which are location-based requests that other users can complete. BuzzMap also allows users to record videos of events and share them with others.
+BuzzMap is a mobile application that displays user-generated news or events on a map as pins. The events can be current (occurring within the last 24 hours) or scheduled for the future. Users can also create side quests, which are location-based requests that other users can complete. BuzzMap also allows users to record videos of events and share them with others.
 
 ## Features
 
 - Display news or events on a map as pins
 - Events can be current (<= 24 hours) or in the future
-- Pins can display side quests, which are requests that users can pin to the map for other users to complete
+- Pins can also represent side quests, which are location-based requests that users can pin to the map for other users to complete
 - Users can record videos of events and share them with others
 
 ## Installation
