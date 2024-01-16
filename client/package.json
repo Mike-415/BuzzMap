@@ -4,10 +4,11 @@
   "version": "0.0.1",
   "main": "index.js",
   "homepage": "https://github.com/Mike-415/BuzzMap#readme",
-  "author": "Mike Gonzalas",
+  "author": "Mike Gonzalez",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "expo start" 
   },
   "dependencies": {
     "aws-sdk": "^2.1536.0",
